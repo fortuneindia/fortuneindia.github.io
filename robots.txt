@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /fonts/
+Disallow: /css/
+Disallow: /js/
+Disallow: /mail/
+Disallow: /img/
+
+# Wait 1 second between successive requests. See ONBOARD-2698 for details.
+Crawl-delay: 1
